@@ -2,7 +2,7 @@ on:
   push:
     branches:
       - main
-      - feature/*
+      - feature/
 permissions:
   contents: write
   pull-requests: write
